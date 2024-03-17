@@ -1,4 +1,3 @@
-(venv) D:\Competition\IconIC 2k23\Project ACE\3D_HT\Opencv Practice\Virtual Mouse\venv>pip list
 Package               Version
 --------------------- --------
 absl-py               1.4.0
